@@ -22,7 +22,7 @@ Note that I have not tried all of these personally and **cannot and do not vouch
 |ls  |[eza       ](https://github.com/eza-community/eza) |![GitHub Repo stars](https://img.shields.io/github/stars/eza-community/eza?style=flat-square&label=)         |![GitHub last release](https://img.shields.io/github/release-date/eza-community/eza?style=flat-square&label=)         |
 |ls  |[lsd       ](https://github.com/peltoche/lsd)      |![GitHub Repo stars](https://img.shields.io/github/stars/peltoche/lsd?style=flat-square&label=)      |![GitHub last release](https://img.shields.io/github/release-date/Peltoche/lsd?style=flat-square&label=)      |
 |ps  |[procs     ](https://github.com/dalance/procs)     |![GitHub Repo stars](https://img.shields.io/github/stars/dalance/procs?style=flat-square&label=)     |![GitHub last release](https://img.shields.io/github/release-date/dalance/procs?style=flat-square&label=)     |
-|rm  |[rip       ](https://github.com/nivekuil/rip)      |![GitHub Repo stars](https://img.shields.io/github/stars/nivekuil/rip?style=flat-square&label=)      |![GitHub last release](https://img.shields.io/github/release-date/nivekuil/rip?style=flat-square&label=)      |
+|rm  |[rip       ](https://github.com/nivekuil/rip)      |![GitHub Repo stars](https://img.shields.io/github/stars/nivekuil/rip?style=flat-square&label=)      |![GeditHub last release](https://img.shields.io/github/release-date/nivekuil/rip?style=flat-square&label=)      |
 |sed |[sd        ](https://github.com/chmln/sd)          |![GitHub Repo stars](https://img.shields.io/github/stars/chmln/sd?style=flat-square&label=)          |![GitHub last release](https://img.shields.io/github/release-date/chmln/sd?style=flat-square&label=)          |
 
 ## Full list of Rust tools
@@ -454,6 +454,10 @@ Lightning-fast and Powerful Code Editor written in Rust
 **[pepper](https://github.com/vamolessa/pepper)**:
 A simple and opinionated modal code editor for your terminal
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/vamolessa/pepper?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/vamolessa/pepper?style=flat)
+
+**[ox](https://github.com/curlpipe/ox)**:
+The simple but flexible text editor with plugins and themes. 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/curlpipe/ox?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/curlpipe/ox?style=flat)
 
 **[xi](https://github.com/xi-editor/xi-editor)**:
 A modern editor with a backend written in Rust.
